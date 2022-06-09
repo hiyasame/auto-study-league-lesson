@@ -1,0 +1,15 @@
+{
+  "name": "auto-study-league-lesson",
+  "version": "1.0.0",
+  "description": "自动学习青年大学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}

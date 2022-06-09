@@ -1,0 +1,1 @@
+export const openid = process.env.OPEN_ID;
