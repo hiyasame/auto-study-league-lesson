@@ -13,3 +13,9 @@
 > 注: 脚本功能尚未测试，不清楚是否真的能打上
 >
 > 哪位能看后台的✌可以测试一下
+
+## 不使用Github Action CI
+
+> npm install
+> 
+> npm run start
