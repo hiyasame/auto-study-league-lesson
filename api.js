@@ -1,6 +1,6 @@
 import fetch from "node-fetch"
 
-const BASE_URL = "http://stu.redrock.team"
+const BASE_URL = "http://qndxx.cqyouths.com"
 
 export async function study(openid, id) {
     return await fetch(`${BASE_URL}/api/course/studyCourse?openid=${openid}&id=${id}`).then(res => res.json())
